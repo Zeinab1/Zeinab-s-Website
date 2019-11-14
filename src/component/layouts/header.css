@@ -1,0 +1,9 @@
+.root {
+  background-image: url("../img/developer.png");
+  height: 500px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.nav {
+}
