@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Zeinab-s-Website/static/css/main.e77ef652.chunk.css",
+    "main.js": "/Zeinab-s-Website/static/js/main.c71959cc.chunk.js",
+    "main.js.map": "/Zeinab-s-Website/static/js/main.c71959cc.chunk.js.map",
+    "runtime-main.js": "/Zeinab-s-Website/static/js/runtime-main.d794432b.js",
+    "runtime-main.js.map": "/Zeinab-s-Website/static/js/runtime-main.d794432b.js.map",
+    "static/js/2.3afaadf0.chunk.js": "/Zeinab-s-Website/static/js/2.3afaadf0.chunk.js",
+    "static/js/2.3afaadf0.chunk.js.map": "/Zeinab-s-Website/static/js/2.3afaadf0.chunk.js.map",
+    "index.html": "/Zeinab-s-Website/index.html",
+    "precache-manifest.5fb3f625b0507b28836ab815b28ec3bf.js": "/Zeinab-s-Website/precache-manifest.5fb3f625b0507b28836ab815b28ec3bf.js",
+    "service-worker.js": "/Zeinab-s-Website/service-worker.js",
+    "static/css/main.e77ef652.chunk.css.map": "/Zeinab-s-Website/static/css/main.e77ef652.chunk.css.map",
+    "static/media/header.css": "/Zeinab-s-Website/static/media/developer.62108e0d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d794432b.js",
+    "static/js/2.3afaadf0.chunk.js",
+    "static/css/main.e77ef652.chunk.css",
+    "static/js/main.c71959cc.chunk.js"
+  ]
+}
